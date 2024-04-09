@@ -1,6 +1,11 @@
 # Il Gioco della Tombola
 Classica tombola natalizia automatizzata.
+
 Esegue in terminale l'estrazione della tombola con visualzzazione basilare.
+Riproduce audio con numero estratto e countdown.
+
+Supportato ora solo lingua italiana.
+
 
 ## Setup
 > python -m venv .venv
